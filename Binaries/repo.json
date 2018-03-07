@@ -150,7 +150,13 @@
     "link":"https://rtrepositories.github.io/better-stuff/Binaries/mariokart.gba",
     "boxart":"http://rtrepositories.github.io/better-stuff/Binaries/BDE3D03D-96F0-4E60-A7C3-2FE8CC847C5C.jpeg",
     "system":"GBA"
-    }
+    },
+    {
+    "name":"Kirby & the Amazing Mirror",
+    "link":"https://rtrepositories.github.io/better-stuff/Binaries/kirbymirror.gba",
+    "boxart":"http://rtrepositories.github.io/better-stuff/Binaries/66A49C66-02C4-4D88-AECB-125A96E34975.jpeg",
+    "system":"GBA"
+    {
     ]
     },
     {
