@@ -146,6 +146,18 @@
     "system":"GBA"
     }
     ]
-    }
-    ]
-}
+    },
+    {
+    "categoryname":"NES",
+    "games":[
+    {
+    "name":"Earthbound",
+    "link":"https://rtrepositories.github.io/better-stuff/Binaries/earthbound.nes",
+    "boxart":"http://rtrepositories.github.io/better-stuff/Binaries/earthbound.jpg",
+    "system":"NES"
+    },
+    {
+    "name":"Tetris",
+    "link":"https://rtrepositories.github.io/better-stuff/Binaries/tetris.nes",
+    "boxart":"http://rtrepositories.github.io/better-stuff/Binaries/tetris.jpg",
+    "system":"NES"
