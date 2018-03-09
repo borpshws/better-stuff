@@ -1,7 +1,7 @@
 {
-  "reponame":"Project ROM",
+  "reponame":"Project ROMs",
   "repologo":"http://ww1.prweb.com/prfiles/2012/12/17/10248068/gI_132082_RT%20Logo%20Final%20cropped.jpg",
-  "repoauthor":"Blob (RT Repositories)",
+  "repoauthor":"B. Turner (RT Repositories)",
   "repodesc":"Want me to add something? Add my Discord: Blob#3934",
   "categories":[
   {
@@ -164,8 +164,8 @@
     "system":"GBA"
     },
     {
-    "name":"Kirby: Nightmare in Dreamland
-    "link":"https://rtrepositories.github.io/better-stuff/Binaries/kirbynightmare.gba
+    "name":"Kirby: Nightmare in Dreamland"
+    "link":"https://rtrepositories.github.io/better-stuff/Binaries/kirbynightmare.gba"
     "boxart":"https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/4F335401-2E2F-4C04-9DE2-92DD545B30C7.png"
     "system":"GBA"
     }
@@ -178,6 +178,12 @@
     "name":"Earthbound",
     "link":"https://rtrepositories.github.io/better-stuff/Binaries/earthbound.nes",
     "boxart":"http://rtrepositories.github.io/better-stuff/Binaries/earthbound.jpg",
+    "system":"NES"
+    },
+    {
+    "name":"Battle Toads"
+    "link":"https://rtrepositories.github.io/better-stuff/Binaries/battletoads.nes
+    "boxart":"https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/8004D7E8-00CA-4053-B82F-EE2729653321.png"
     "system":"NES"
     },
     {
