@@ -168,6 +168,12 @@
     "link":"https://rtrepositories.github.io/better-stuff/Binaries/kirbynightmare.gba",
     "boxart":"https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/4F335401-2E2F-4C04-9DE2-92DD545B30C7.png",
     "system":"GBA"
+    },
+    {
+      "name":"Mega Man Zero 1",
+      "link":"httpa://rtrepositories.github.io/better-stuff/Binaries/megaman_zero1.gba",
+      "boxart":"https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/5ABFF39C-1D70-4288-BC4D-F7A93E20D094.png",
+      "system":"GBA"
     }
     ]
     },
