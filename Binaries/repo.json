@@ -1,5 +1,5 @@
 {
-  "reponame":"Henlo I Borb",
+  "reponame":"Henlo, Here Have Sum Games",
   "repologo":"http://https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/ADAB681B-05B2-4669-ABC6-1711C1BD8176.png",
   "repoauthor":"B. Turner",
   "repodesc":"Want me to add something? Add my Discord: Blob#3934",
@@ -174,121 +174,7 @@
       "link":"httpa://rtrepositories.github.io/better-stuff/Binaries/megaman_zero1.gba",
       "boxart":"https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/5ABFF39C-1D70-4288-BC4D-F7A93E20D094.png",
       "system":"GBA"
-    },
-    {
-      "name": "Pokemon Emerald (U)",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmne.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmne.gba" 
-      "system":"GBA"
-     },
-     {
-      "name": "Pokemon - Eclipse",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmneclipse.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmneclipse.gba"
-      "system":"GBA"
-    },
-    {
-      "name": "Pokemon - Moon Emerald",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmmme.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmmme.gba"
-      "system":"GBA"
-     }, 
-     {
-      "name": "Pokemon - Resolute",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnres.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnres.gba"
-      "system":"GBA"
-    },
-    {
-      "name": "Pokemon - White Cloud",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmncloud.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmncloud.gba" 
-      "system":"GBA"
-     },
-     {
-      "name": "Pokemon - Shiny Gold",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsg.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnsg.gba"
-      "system":"GBA"
-    },
-    {
-      "name": "Pokemon - Shiny Gold Sigma",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsgs.jpeg",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnsgs.gba" 
-      "system":"GBA"
-     },
-    {
-      "name": "Pokemon - Cawps",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmncop.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmncop.gba"
-      "system":"GBA"
-     },
-     {
-      "name": "Pokemon - Dust Crystal",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmndust.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmncrystal.gba"
-      "system":"GBA"
-    },
-    {
-      "name": "Pokemon - Digimon Worlds Collide",
-      "boxart": "https://raw.githubusercontent.com/Enderapps/Enderapps.github.io/master/iGBA/art/pkmndro.jpeg",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmndro.gba"
-      "system":"GBA"
-     }, 
-     {
-      "name": "Pokemon Z Training",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmndbz.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmndbz.gba"
-      "system":"GBA"
-    },
-    {
-      "name": "Pokemon - Dark Violet",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmndvv.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmndv.gba" 
-      "system":"GBA"
-     },
-    {
-      "name": "Pokemon - Sweet 2",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsweet2.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnsweet2.gba"
-      "system":"GBA"
-     },
-    {
-      "name": "Pokemon - Order Destoryed",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmndro.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmndrod.gba"  
-      "system":"GBA"
-     },
-     {
-      "name": "Pokemon - Emerald (R)",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmne.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmner.gba"
-      "system":"GBA"
-    },
-    {
-      "name": "Pokemon - Theta Emerald EX",
-      "boxart": "http://enderapps.github.io/iGBA/art/pkmnex.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnex.gba"
-      "system":"GBA"
-     }, 
-     {
-      "name": "Pokemon - Korosu",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnk.jpg",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnk.gba"
-      "system":"GBA"
-    },
-    {
-      "name": "Pokemon - Leaf Green (R)",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnlgr.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnlgr.gba" 
-      "system":"GBA"
-     },
-    {
-      "name": "Pokemon - Super Fire Red",
-      "boxart": "https://enderapps.github.io/iGBA/art/Pokemon_Super_fire.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnsfr.gba"  
-      "system":"GBA"
-     },
+    }
     ]
     },
     {
