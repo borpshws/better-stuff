@@ -1,0 +1,10 @@
+{
+  "reponame": "Repo Name",
+  "repologo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/2000px-Eclipse-SVG.svg.png",
+  "author": "Repo Author",
+  "games": [{
+      "name": "Kirby Nightmare",
+      "boxart": "https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/4F335401-2E2F-4C04-9DE2-92DD545B30C7.png",
+      "url": "https://rtrepositories.github.io/better-stuff/Binaries/kirbynightmare.gba"
+    }
+  ]
