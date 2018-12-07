@@ -1,7 +1,7 @@
 {
   "reponame":"Henlo",
   "repologo":"https://raw.githubusercontent.com/RTRepositories/better-stuff/gh-pages/Binaries/images/ADAB681B-05B2-4669-ABC6-1711C1BD8176.png",
-  "repoauthor":"B. Turner",
+  "repoauthor":"Your Uncle Ron",
   "repodesc":"Want me to add something? Add my Discord: Borp#3934",
   "categories":[
   {
@@ -9,7 +9,7 @@
   "games":[
   {
   "name":"Doom II",
-  "link":"https://rtrepositories.github.io/better-stuff/Binaries/doom_2.gba",
+  "link":"https://youruncleron.github.io/better-stuff/Binaries/doom_2.gba",
    "boxart":"https://images-na.ssl-images-amazon.com/images/I/6187B8ZAA9L._SX342_.jpg",
    "system":"GBA"
    },
