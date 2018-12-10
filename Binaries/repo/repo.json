@@ -170,6 +170,12 @@
     "system":"GBA"
     },
     {
+    "name":"Advance Wars",
+    "link":"https://raw.githubusercontent.com/youruncleron/better-stuff/gh-pages/Binaries/Advanced%20Wars%20%20%23%20GBA.GBA",
+    "boxart":"https://raw.githubusercontent.com/youruncleron/better-stuff/gh-pages/Binaries/images/2BBD3AC9-AD99-4DAF-B174-0A3184D6CFB6.jpeg",
+    "system":"GBA"
+    },
+    {
       "name":"Mega Man Zero 1",
       "link":"httpa://youruncleron.github.io/better-stuff/Binaries/megaman_zero1.gba",
       "boxart":"https://raw.githubusercontent.com/youruncleron/better-stuff/gh-pages/Binaries/images/5ABFF39C-1D70-4288-BC4D-F7A93E20D094.png",
